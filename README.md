@@ -9,7 +9,7 @@
             框架文档（暂无）
         </a>
     </h4>
-    <address>Logo 暂时来自<a href="http://www.pixiv.net/member_illust.php?mode=medium&illust_id=26599385">Pixiv</a></address>
+    <center>Logo 暂时来自<a href="http://www.pixiv.net/member_illust.php?mode=medium&illust_id=26599385">Pixiv</a></center>
     <h4 align="center">
         <a href="https://www.nuget.org/packages/Yomu/">
             <img src="https://img.shields.io/nuget/v/Yomu?style=flat-square" alt="nuget">
