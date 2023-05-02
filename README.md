@@ -1,7 +1,6 @@
 <h1 align="center">
     <br>
     <img width="200" src="Yomu/icon.png" alt="LOGO">
-    Logo 暂时来自<a href="http://www.pixiv.net/member_illust.php?mode=medium&illust_id=26599385">Pixiv</a>
     <br>
     Yomu
     <h4 align="center">
@@ -10,6 +9,7 @@
             框架文档（暂无）
         </a>
     </h4>
+    <address>Logo 暂时来自<a href="http://www.pixiv.net/member_illust.php?mode=medium&illust_id=26599385">Pixiv</a></address>
     <h4 align="center">
         <a href="https://www.nuget.org/packages/Yomu/">
             <img src="https://img.shields.io/nuget/v/Yomu?style=flat-square" alt="nuget">
